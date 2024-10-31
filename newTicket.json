@@ -1,0 +1,3 @@
+{
+  "content": "h2. Description\n\nThis is a description of the issue.\n\nh2. Acceptance Criteria\n\n* Criterion 1\n* Criterion 2\n* Criterion 3\n\nh2. Technical Notes\n\n{panel:title=Implementation Details|borderStyle=dashed|borderColor=#ccc|titleBGColor=#f7f7f7|bgColor=#fff}\nTechnical details go here\n{panel}\n\nh2. Test Cases\n\n{color:#172B4D}*Given*{color} the user is logged in\n{color:#172B4D}*When*{color} they perform an action\n{color:#172B4D}*Then*{color} expected result happens"
+}
