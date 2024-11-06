@@ -1,5 +1,6 @@
 Objective;Precondition;BDD
-The purpose of this test case is to ensure that;<ul style='list-style-type: disc; margin-left: 20px'><li>User is online</li><li>User is authenticated</li></ul>;"Given
+The purpose of this test case is to ensure that...;"User is online
+User is authenticated";"Given
 And
 And
 When
