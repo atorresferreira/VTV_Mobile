@@ -1,5 +1,5 @@
 {
-  "content": "This fix is available in Iteration X.Y onwards.\n\n*Device under test:*\n[Device brand and model 1 - OS Version]\n[Device brand and model 2 - OS Version]\n\n\n*Build Revision:*\n[Revision number]\n\nFix evidences attached.\n\nThank you,\nYour name\n\nFYI @dan"
+  "content": "This fix is available in Iteration X.Y onwards.\n\n*Device under test:*\n[Device brand and model - OS Version]\n\n*Build Revision:*\n[Revision number]\n\nFix evidences attached.\n\nThank you,\nYour name\n\nFYI @dan"
 }
 
 
